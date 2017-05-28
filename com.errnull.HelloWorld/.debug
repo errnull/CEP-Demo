@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+    <Extension Id="com.yourName.HelloWorld">
+        <HostList>
+            <Host Name="AEFT" Port="8000"/>
+            <Host Name="AEFX" Port="8001"/>
+        </HostList>
+    </Extension>
+   <Extension Id="com.adobe.CEPHTMLTEST.Panel2">
+        <HostList>
+            <Host Name="AEFT" Port="8100"/>
+            <Host Name="AEFX" Port="8101"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
